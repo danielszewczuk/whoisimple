@@ -1,2 +1,2 @@
-# Whoismple
+# Whoisimple
 Whois lookup python library.
