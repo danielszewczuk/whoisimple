@@ -1,3 +1,3 @@
-from .main import *
+from .query import *
 import requests
 import re
